@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=2500&color=006AFE&center=true&vCenter=true&repeat=false&width=355&height=75&lines=about+me" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=2500&pause=15000&color=006AFE&center=true&vCenter=true&width=355&height=75&lines=about+me" alt="Typing SVG" />
   </picture>
 </div>
 
@@ -10,7 +10,7 @@
   🏢 Dual Study Program since 2022 <br>
   <br>
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&color=006AFE&center=true&vCenter=true&repeat=false&width=160&height=25&lines=things+I+like" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=15000&color=006AFE&center=true&vCenter=true&width=160&height=25&lines=things+I+like" alt="Typing SVG" />
   </picture><br>
   📷 Photography <br>
   🎮 Videogames <br>
@@ -20,7 +20,7 @@
 
 <h3 align="center">
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&color=006AFE&center=true&vCenter=true&repeat=false&width=345&height=35&lines=languages+and+tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=15000&color=006AFE&center=true&vCenter=true&width=345&height=35&lines=languages+and+tools" alt="Typing SVG" />
   </picture>
 </h3>
 <div align="center">
@@ -61,7 +61,7 @@
     <td colspan="2">
       <div align="center">
         <picture>
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2500&color=006AFE&center=true&vCenter=true&repeat=false&width=150&height=70&lines=stats" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2500&pause=15000&color=006AFE&center=true&vCenter=true&width=150&height=70&lines=stats" alt="Typing SVG" />
         </picture>
       </div>
     </td>
