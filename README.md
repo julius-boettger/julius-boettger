@@ -10,7 +10,7 @@
   🏢 Dual Study Program since 2022 <br>
   <br>
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFE&center=true&vCenter=true&repeat=false&width=160&height=25&lines=things+I+like" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&color=006AFE&center=true&vCenter=true&repeat=false&width=160&height=25&lines=things+I+like" alt="Typing SVG" />
   </picture><br>
   📷 Photography <br>
   🎮 Videogames <br>
