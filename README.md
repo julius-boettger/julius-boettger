@@ -4,24 +4,25 @@
   </picture>
 </div>
 
-<br><div align="center">
+<div align="center">
   📍 Germany <br>
   🎓 Computer Science Student <br>
   🏢 Dual Study Program since 2022 <br>
   <br>
-  <br>
-  <b>✨Things I like✨</b> <br>
+  <picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFE&center=true&vCenter=true&repeat=false&width=160&height=25&lines=things+I+like" alt="Typing SVG" />
+  </picture><br>
   📷 Photography <br>
   🎮 Videogames <br>
   🦎 My <a href="https://en.wikipedia.org/wiki/Gargoyle_gecko">Gecko</a> <br>
   🎸 My Bass
 </div>
 
-<br><div align="center">
+<h3 align="center">
   <picture>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&color=006AFE&center=true&vCenter=true&repeat=false&width=345&height=35&lines=languages+and+tools" alt="Typing SVG" />
   </picture>
-</div>
+</h3>
 <div align="center">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
