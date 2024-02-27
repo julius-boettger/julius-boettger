@@ -25,32 +25,26 @@
   </picture>
 </h3>
 <div align="center">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/miqh/vscode-language-rust/master/images/extension-icon.png" alt="rust" width="40" height="40"/> 
   </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/miqh/vscode-language-rust/master/images/extension-icon.png" alt="rust" width="40" height="40"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
 </div>
 
 <br><div align="center">
   <a href="https://github.com/julius-boettger/software-list">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=15000&color=006AFE&center=true&vCenter=true&width=550&height=40&lines=+%E2%9C%A8list+of+favourite+software%E2%9C%A8+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=15000&color=006AFE&center=true&vCenter=true&width=550&height=40&lines=+%E2%9C%A8list+of+favorite+software%E2%9C%A8+" alt="Typing SVG" />
   </a>
 </div>
 
