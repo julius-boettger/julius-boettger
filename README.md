@@ -28,8 +28,8 @@
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/miqh/vscode-language-rust/master/images/extension-icon.png" alt="rust" width="40" height="40"/> 
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <a href="https://www.gnu.org/software/gnu-c-manual/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
@@ -37,8 +37,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
 </div>
 
@@ -64,7 +64,7 @@
     </td>
     <td>
       <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julius-boettger&show_icons=true&theme=transparent&layout=compact&langs_count=8&hide=lua,nix,html,css,powershell,shell,meson" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julius-boettger&show_icons=true&theme=transparent&layout=compact&langs_count=8&hide=lua,nix,html,css,powershell,shell,meson,scss,dockerfile" />
       </div>
     </td>
   </tr>
