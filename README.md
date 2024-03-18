@@ -64,7 +64,7 @@
     </td>
     <td>
       <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julius-boettger&show_icons=true&theme=transparent&layout=compact&langs_count=8&hide=lua,nix,html,css,powershell,shell,meson,scss,dockerfile" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julius-boettger&show_icons=true&theme=transparent&layout=compact&langs_count=8&hide=lua,nix,html,css,powershell,shell,meson,scss,dockerfile,batchfile,starlark" />
       </div>
     </td>
   </tr>
