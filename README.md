@@ -52,9 +52,9 @@
   <tr>
     <td colspan="2">
       <div align="center">
-        <picture>
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2500&pause=15000&color=006AFE&center=true&vCenter=true&width=150&height=70&lines=stats" alt="Typing SVG" />
-        </picture>
+          <br>
+          <img src="https://komarev.com/ghpvc/?username=julius-boettger&style=for-the-badge&color=006afe"/>
       </div>
     </td>
   </tr>
@@ -64,9 +64,7 @@
     </td>
     <td>
       <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julius-boettger&show_icons=true&theme=transparent&layout=compact" />
-        <br>
-        <img src="https://komarev.com/ghpvc/?username=julius-boettger&style=for-the-badge&color=006afe"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julius-boettger&show_icons=true&theme=transparent&layout=compact&langs_count=8&hide=lua,nix,html,css,powershell,shell,meson" />
       </div>
     </td>
   </tr>
