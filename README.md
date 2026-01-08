@@ -22,7 +22,7 @@
   </picture>
 </h3>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julius-boettger&show_icons=true&theme=transparent&layout=compact&langs_count=8&hide=lua,nix,html,css,meson,dockerfile,vim+script" />
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=julius-boettger&show_icons=true&theme=transparent&layout=compact&langs_count=8&hide=lua,nix,html,css,meson,dockerfile,vim+script,wgsl" />
 </div>
 
 <h3 align="center">
@@ -31,7 +31,7 @@
   </picture>
 </h3>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=julius-boettger&show_icons=true&theme=transparent" />
+  <img align="center" src="https://readme-stats-fast.vercel.app/api?username=julius-boettger&show_icons=true&theme=transparent" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=julius-boettger&style=for-the-badge&color=006afe" />
 </div>
