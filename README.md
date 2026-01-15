@@ -22,7 +22,7 @@
   </picture>
 </h3>
 <div align="center">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=julius-boettger&show_icons=true&theme=transparent&layout=compact&langs_count=8&hide=lua,nix,html,css,meson,dockerfile,vim+script,wgsl" />
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=julius-boettger&show_icons=true&theme=transparent&layout=compact&langs_count=8&hide=lua,nix,html,css,meson,dockerfile,vim+script" />
 </div>
 
 <h3 align="center">
